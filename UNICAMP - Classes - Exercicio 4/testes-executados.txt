@@ -1,0 +1,18 @@
+Unicamp\Lista1Exercicio4\Tests\Gabarito
+ [x] Deveria obter o titulo das respostas
+ [x] Deveria validar a saida de todas as perguntas adicionadas
+
+Unicamp\Lista1Exercicio4\Tests\QuestaoGabarito
+ [x] Deveria receber excessao em entrada com caracteres fora do range
+ [x] Deveria receber excessao em entrada com numeros
+ [x] Deveria retornar respostas marcadas with data set "Pergunta 1"
+ [x] Deveria retornar respostas marcadas with data set "Pergunta 2"
+ [x] Deveria retornar respostas marcadas with data set "Pergunta 3"
+ [x] Deveria retornar respostas marcadas with data set "Pergunta 4"
+ [x] Deveria retornar respostas marcadas with data set "Pergunta 5"
+ [x] Valida entradas de respostas with data set "Pergunta 1"
+ [x] Valida entradas de respostas with data set "Pergunta 2"
+ [x] Valida entradas de respostas with data set "Pergunta 3"
+ [x] Valida entradas de respostas with data set "Pergunta 4"
+ [x] Valida entradas de respostas with data set "Pergunta 5"
+

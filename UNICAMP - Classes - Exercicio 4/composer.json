@@ -1,0 +1,24 @@
+{
+    "name": "rochajario/exercicio4",
+    "description": "Lista de Exercicios UNICAMP - Programacao Orientada a Objetos",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jario Rocha dos Santos Junior",
+            "email": "rochajario@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Unicamp\\Lista1Exercicio4\\":"src/",
+            "Unicamp\\Lista1Exercicio4\\Tests\\":"tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "8"
+    },
+    "scripts":{
+        "phpunit":".\\vendor\\bin\\phpunit"
+    }
+}
