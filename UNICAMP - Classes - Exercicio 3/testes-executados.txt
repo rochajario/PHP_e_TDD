@@ -1,0 +1,9 @@
+Unicamp\Lista1Exercicio3\Tests\Cliente
+ [x] Verifica cliente
+
+Unicamp\Lista1Exercicio3\Tests\voo
+ [x] Valida objeto
+ [x] Valida proximo assento livre
+ [x] Valida ocupacao de assento
+ [x] Deveria validar quantidade de vagas disponiveis
+
