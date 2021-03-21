@@ -1,0 +1,9 @@
+Unicamp\Lista1Exercicio2\Tests\Data
+ [x] Deveria verificar se o ano e bissexto with data set "Dia 31 de Março"
+ [x] Deveria verificar se o ano e bissexto with data set "Dia 30 de Abril"
+ [x] Deveria verificar se o ano e bissexto with data set "Dia 29 de Fevereiro"
+ [x] Deveria retornar mes por extenso with data set "Dia 29 de Fevereiro"
+ [x] Deveria validar parametros with data set "Dia 30 de Abril"
+ [x] Deveria validar parametros with data set "Dia 31 de Março"
+ [x] Deveria validar parametros with data set "Dia 29 de Fevereiro"
+
