@@ -1,0 +1,30 @@
+{
+    "name": "rochajario/exercicio1",
+    "description": "Lista de Exercicios UNICAMP - Programacao Orientada a Objetos",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jario Rocha dos Santos Junior",
+            "email": "rochajario@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Unicamp\\Lista1Exercicio1\\":"src/",
+            "Unicamp\\Lista1Exercicio1\\Tests\\":"tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "8",
+        "squizlabs/php_codesniffer": "^3.5"
+    },
+    "scripts":{
+        "phpunit":".\\vendor\\bin\\phpunit",
+        "phpcbf":".\\vendor\\bin\\phpcbf --standard=PSR12 .\\src\\",
+        "build":[
+            "@phpcbf",
+            "@phpunit"
+        ]
+    }
+}

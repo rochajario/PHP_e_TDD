@@ -1,0 +1,6 @@
+Unicamp\Lista1Exercicio1\Tests\AlunosMatriculados
+ [x] Valida calculo de media with data set "Aluno Com notas 10,10,10"
+ [x] Valida calculo de media with data set "Aluno Com notas 7,8,10"
+ [x] Valida atributos do aluno with data set "Aluno Com notas 7,8,10"
+ [x] Deveria identificar excecao de notas invalidas
+
