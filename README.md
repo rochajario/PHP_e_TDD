@@ -6,3 +6,5 @@ Com a finalidade de treinar o processo de Desenvolvimento Orientado a Testes rec
 2) Faça com que o teste passe;
 3) Refatore.
 
+https://www.linkedin.com/in/rochajario/
+rochajario@gmail.com
